@@ -1,0 +1,177 @@
+  body {
+            margin: 0;
+            padding: 0;
+            background: #7a1440;
+            background-image: url(MMG6.png);
+            background-position: left;
+            background-attachment: fixed
+        }
+
+      
+
+
+        .maryam {
+            text-align: center;
+            font-size: 20px;
+            font-family: sans-serif;
+            color: #f2f2f2;
+            background: #08e2f8;
+            height: 60px;
+            margin: -20PX;
+            width: 1369PX
+        }
+
+       .M_OR_A{
+       margin:20PX
+       }
+
+        .BB0 {
+            width: 100%;
+            background: #033d3d;
+            overflow: auto
+        }
+
+            .BB0 ul {
+                margin: 0;
+                padding: 0;
+                text-align: center;
+                list-style: none;
+                line-height: 50px;
+            }
+
+            .BB0 li {
+                float: left
+            }
+
+
+            .BB0 ul li a {
+                background: #033d3d;
+                text-decoration: none;
+                width: 130px;
+                display: block;
+                text-align: center;
+                color: #f2f2f2;
+                font-size: 18px;
+                font-family: sans-serif;
+                letter-spacing: 0.5px;
+                margin-left:34px ;
+            }
+
+            .BB0 li a:hover {
+                color: #fff;
+                opacity: 0.5;
+                font-size: 19px
+            }
+
+        .center {
+            margin-top: 10px;
+            float: right;
+            margin-right: 100px;
+        }
+
+        input[type=text] {
+            padding: 8px;
+            border: 0;
+            font-size: 12px;
+            font-family: sans-serif
+        }
+
+        button {
+            background: #08e2f8;
+            color: #074d52;
+            border: 0px 5px 5px 0px;
+            cursor: pointer;
+            position: relative;
+            padding: 7px;
+            font-family: sans-serif;
+            border: none;
+            font-size: 15px;
+           
+        }
+
+        .A_OR_M {
+        background:#ff0000
+        }
+
+
+        .mohamed {
+            background: #033d3d;
+            font-size: 80px;
+            margin-top: 179px;
+            width: 100%;
+            height: 500px;
+            padding: 0px;
+            border: 1px;
+            background: #e4d6d6
+        }
+
+          
+
+        .A {
+            width: 100%;
+            height: 500px
+        }
+
+
+        .A_M {
+            background: #08e2f8;
+            height: 50px;
+            background-image: url(MMG6.png);
+            background-position: left;
+            background-attachment: fixed
+        }
+
+
+        .A_M:hover {
+            transform: translateY(2px);
+            box-shadow: 0 10px 10px 0 rgba(0,0,0,.5);
+        }
+
+
+        .M_A {
+            color: #08e2f8;
+            font-size: 30px;
+            width: 293px;
+            background: #074d52;
+            margin-left: 60px;
+            text-align: center;
+            padding: 8px;
+            font-family: fantasy;
+        }
+
+
+
+
+        .ma {
+            background: #074d52;
+            float: right;
+            color: #08e2f8;
+            margin-top: -51px;
+            width: 366px;
+            height: 49px;
+            margin-right: 102px;
+            font-size: 28px;
+            font-family: fantasy;
+        }
+
+
+        .AAMM {
+            background: #033d3d;
+            font-size: 80px;
+            margin-top: 1px;
+            width: 100%;
+            height: 500px;
+            padding: 0px;
+            border: 1px;
+            background: #e4d6d6
+        }
+
+
+        .footer {
+            background: #033d3d;
+            margin-top: 191px;
+            height: 25px;
+            text-align: center;
+            color: #08e2f8;
+            font-size: 20px;
+        }
